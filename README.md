@@ -1,5 +1,9 @@
 # Sistema Loja de Videogame
 
+##
+
+Feito por Tarcísio Luiz Harres de Almeida na disciplina de Análise e Projeto de Sistemas (APS) no curso Bacharelado em Ciência da Computação. 2026/2
+
 ## Descrição do projeto
 
 Este projeto consiste no desenvolvimento de um sistema para gerenciar o catálogo e as operações comerciais de uma loja de videogames. O objetivo principal é controlar de forma eficiente as informações dos jogos disponíveis, automatizando o acompanhamento do estoque e a diferenciação dos produtos.
