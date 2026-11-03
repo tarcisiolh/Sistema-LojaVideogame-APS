@@ -1,7 +1,5 @@
 # Sistema Loja de Videogame
 
-##
-
 Feito por Tarcísio Luiz Harres de Almeida na disciplina de Análise e Projeto de Sistemas (APS) no curso Bacharelado em Ciência da Computação. 2026/2
 
 ## Descrição do projeto
