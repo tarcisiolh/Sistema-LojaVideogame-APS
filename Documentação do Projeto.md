@@ -56,5 +56,5 @@ RN07 | A prorrogação do prazo de devolução de um jogo alugado somente poder�
 
 # Diagrama de casos de uso
 
-![Diagrama de casos de uso](diagrama_casos_uso_loja_videogame.png)
+![Diagrama de casos de uso](diagrama_casos_uso_loja_videogame.jpg)
 
