@@ -53,3 +53,8 @@ Definem políticas e restrições próprias do funcionamento da loja, que devem 
 | RN05 | Preço de venda e valor da diária não podem ser valores negativos; a quantidade em estoque deve ser um número inteiro igual ou superior a zero. | Alta | RF06, RF07 |
 | RN06 | Um jogo ou cliente que possua operação em andamento vinculada não pode ser excluído do cadastro. | Média | RF04, RF09, RF12 |
 RN07 | A prorrogação do prazo de devolução de um jogo alugado somente poderá ser realizada quando não houver conflito de disponibilidade com outra locação ou reserva. | Média | RF17 |
+
+# Diagrama de casos de uso
+
+![Diagrama de casos de uso](diagrama_casos_uso_loja_videogame.png)
+
