@@ -22,6 +22,7 @@ O que o sistema deve fazer — as funcionalidades que ele deve oferecer.
 | RF14 | O sistema deve permitir registrar a devolução de um jogo alugado, atualizando sua situação para disponível quando não houver outra restrição de disponibilidade. | Alta | RF12 |
 | RF15 | O sistema deve permitir consultar as locações em andamento e suas respectivas datas previstas de devolução. | Média | RF12 |
 | RF16 | O sistema deve apresentar a disponibilidade e a quantidade em estoque dos jogos conforme a modalidade selecionada (venda ou aluguel). | Alta | RF06, RF07, RF11, RF12, RF14 |
+| RF17 | O sistema deve permitir prorrogar o prazo de devolução de um jogo alugado | Média | RF12, RF15 |
 
 ## 2. Requisitos Não Funcionais
 
@@ -51,3 +52,4 @@ Definem políticas e restrições próprias do funcionamento da loja, que devem 
 | RN04 | Uma cópia de jogo alugada somente volta a ser considerada disponível após o registro de sua devolução. | Alta | RF12, RF14 |
 | RN05 | Preço de venda e valor da diária não podem ser valores negativos; a quantidade em estoque deve ser um número inteiro igual ou superior a zero. | Alta | RF06, RF07 |
 | RN06 | Um jogo ou cliente que possua operação em andamento vinculada não pode ser excluído do cadastro. | Média | RF04, RF09, RF12 |
+RN07 | A prorrogação do prazo de devolução de um jogo alugado somente poderá ser realizada quando não houver conflito de disponibilidade com outra locação ou reserva. | Média | RF17 |
