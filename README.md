@@ -92,3 +92,6 @@ Não fazem parte do escopo inicial do projeto:
 Dessa forma, o projeto busca desenvolver uma solução que atenda às necessidades essenciais de gerenciamento de uma loja de videogames, priorizando a organização das informações, o controle dos produtos e a eficiência das operações de venda e aluguel.
 
 A delimitação estabelecida permite concentrar o desenvolvimento nas funcionalidades fundamentais do sistema, mantendo uma estrutura que poderá ser ampliada futuramente conforme as necessidades do estabelecimento.
+
+
+# 3. [Documentação do Projeto](Documentação-do-Projeto.md) #
