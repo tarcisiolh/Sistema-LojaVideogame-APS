@@ -93,5 +93,14 @@ Dessa forma, o projeto busca desenvolver uma solução que atenda às necessidad
 
 A delimitação estabelecida permite concentrar o desenvolvimento nas funcionalidades fundamentais do sistema, mantendo uma estrutura que poderá ser ampliada futuramente conforme as necessidades do estabelecimento.
 
+# 2. Diagrama de Classes
+
+> diagrama de classes conceitual
+
+![diagrama conceitual](Diagrama_de_classes_loja_videogames_conceitual.jpg)
+
+> diagrama de classes domínio
+
+![diagrama dominio](Diagrama_de_classes_loja_videogames_dominio.jpg)
 
 # 3. [Documentação do Projeto](./Documentação%20do%20Projeto.md)
