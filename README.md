@@ -97,10 +97,10 @@ A delimitação estabelecida permite concentrar o desenvolvimento nas funcionali
 
 > diagrama de classes conceitual
 
-![diagrama conceitual](Diagrama_de_classes_loja_videogames_conceitual.jpg)
+![diagrama conceitual](./docs/Diagrama-de-Classes/Diagrama_de_classes_loja_videogames_conceitual.jpg)
 
 > diagrama de classes domínio
 
-![diagrama dominio](Diagrama_de_classes_loja_videogames_dominio.jpg)
+![diagrama dominio](./docs/Diagrama-de-Classes/Diagrama_de_classes_loja_videogames_dominio.jpg)
 
 # 3. [Documentação do Projeto](./Documentação%20do%20Projeto.md)
